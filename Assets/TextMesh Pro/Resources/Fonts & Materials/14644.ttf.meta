@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9d1aef0668612f34a890c5d9db7eb7cf
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CgEagleBold [Rus by me] Alt Sty
+  fontNames:
+  - CgEagleBold [Rus by me] Alt Sty
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
